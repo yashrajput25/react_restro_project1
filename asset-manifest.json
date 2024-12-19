@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_restro_project1/static/css/main.02a5ed09.css",
+    "main.js": "/react_restro_project1/static/js/main.da2a48a4.js",
+    "static/js/787.091bb736.chunk.js": "/react_restro_project1/static/js/787.091bb736.chunk.js",
+    "static/media/banner.jpeg": "/react_restro_project1/static/media/banner.9d5117db7d449545dbdd.jpeg",
+    "static/media/thali.jpg": "/react_restro_project1/static/media/thali.04af381581ed0075a369.jpg",
+    "static/media/dosa.jpg": "/react_restro_project1/static/media/dosa.e1dc8b72e24c0796cbf9.jpg",
+    "static/media/masala.jpg": "/react_restro_project1/static/media/masala.2cf8a6f22ce46da52c0d.jpg",
+    "static/media/chola.webp": "/react_restro_project1/static/media/chola.28e9f2e13cd453f3e2d3.webp",
+    "static/media/paneer.jpg": "/react_restro_project1/static/media/paneer.18d5cbf51020c6b44802.jpg",
+    "static/media/idli.jpg": "/react_restro_project1/static/media/idli.a178acec553a6b71016f.jpg",
+    "static/media/logo.svg": "/react_restro_project1/static/media/logo.30e4c2064ff98b2c767177a831f2e5db.svg",
+    "index.html": "/react_restro_project1/index.html",
+    "main.02a5ed09.css.map": "/react_restro_project1/static/css/main.02a5ed09.css.map",
+    "main.da2a48a4.js.map": "/react_restro_project1/static/js/main.da2a48a4.js.map",
+    "787.091bb736.chunk.js.map": "/react_restro_project1/static/js/787.091bb736.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02a5ed09.css",
+    "static/js/main.da2a48a4.js"
+  ]
+}
