@@ -7,7 +7,7 @@ import Pagenotfound from "./pages/Pagenotfound";
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename="/react_restro_project1">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
